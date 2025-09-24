@@ -1,0 +1,2 @@
+# ScienceDecrypting
+ScienceDecrypting包，提供exe，python源码和支持批量解密的bat脚本
